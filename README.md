@@ -11,30 +11,36 @@ Just drag in the .zip as you would with a regular voicebank.
 
 
 
-               
+<table>
+<tr>
+<td width="260">
 
+<img src="character.png" width="240">
 
-<p align="center">
-  <img src="box-art.png" width="300">
-</p>
+</td>
+<td>
 
+# No Name (Jax Auxx)
+-Bio- 
 
+**First name:** Auxx  
+**Last name**: Jax  
+**Gender:** Male  
+**Age: **19  
+**Height:** 177.77 cm  
+**Weight:** 73kg  
+**Hair Colour:** Dark Blue  
+**Eye Colour:** Red  
+**Outfit:** Casual  
+**Personality:** Rogue  
+**Favourite food:** Spaghetti   
+**Favoutire drink:** Battery acid  
+**Catchprase:** "Wha-"  
+
+</td>
+</tr>
+</table>
 
 
 
            
--Bio- 
-
-First name: Auxx  
-Last name: Jax  
-Gender: Male  
-Age: 19  
-Height: 177.77 cm  
-Weight: 73kg  
-Hair Colour: Dark Blue  
-Eye Colour: Red  
-Outfit: Casual  
-Personality: Rogue  
-Favourite food: Spaghetti   
-Favoutire drink: Battery acid  
-Catchprase: "Wha-"  
