@@ -15,13 +15,12 @@ Just drag in the .zip as you would with a regular voicebank.
 <tr>
 <td width="260">
 
-<img src="character.png" width="240">
+<img src="box-art.png" width="240">
 
 </td>
 <td>
 
-# No Name (Jax Auxx)
--Bio- 
+# Jax Auxx
 
 **First name:** Auxx  
 **Last name**: Jax  
