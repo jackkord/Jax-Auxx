@@ -1,3 +1,0 @@
-name=Jax Auxx (v1)
-author=Jackkord
-image=character.png
