@@ -10,10 +10,19 @@ Soon I will release a v2 which will be a full VCCV bank.
 Just drag in the .zip as you would with a regular voicebank.
 
 
+
+               
+
+
 <p align="center">
   <img src="box-art.png" width="300">
 </p>
 
+
+
+
+
+           
 -Bio- 
 
 First name: Auxx  
