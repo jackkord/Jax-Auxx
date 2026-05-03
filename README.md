@@ -21,6 +21,6 @@ Hair Colour: Dark Blue
 Eye Colour: Red  
 Outfit: Casual  
 Personality: Rogue  
-Favourite food: Spahgetti   
+Favourite food: Spaghetti   
 Favoutire drink: Battery acid  
 Catchprase: "Wha-"  
