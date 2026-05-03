@@ -25,7 +25,7 @@ Just drag in the .zip as you would with a regular voicebank.
 **First name:** Auxx  
 **Last name**: Jax  
 **Gender:** Male  
-**Age: **19  
+**Age:** 19  
 **Height:** 177.77 cm  
 **Weight:** 73kg  
 **Hair Colour:** Dark Blue  
