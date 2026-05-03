@@ -11,16 +11,16 @@ Just drag in the .zip as you would with a regular voicebank.
 
 -Bio- 
 
-First name: Auxx
-Last name: Jax
-Gender: Male
-Age: 19
-Height: 177.77 cm
-Weight: 73kg
-Hair Colour: Dark Blue
-Eye Colour: Red
-Outfit: Casual
-Personality: Rogue
-Favourite food: Spahgetti 
-Favoutire drink: Battery acid
-Catchprase: "Wha-"
+First name: Auxx  
+Last name: Jax  
+Gender: Male  
+Age: 19  
+Height: 177.77 cm  
+Weight: 73kg  
+Hair Colour: Dark Blue  
+Eye Colour: Red  
+Outfit: Casual  
+Personality: Rogue  
+Favourite food: Spahgetti   
+Favoutire drink: Battery acid  
+Catchprase: "Wha-"  
